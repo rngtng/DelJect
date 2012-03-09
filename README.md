@@ -7,7 +7,7 @@ His problem was, that his photography camera couldn't deal with apple's hidden f
 
 
 ## Download
-Get latest version here: [DelJect.app](https://github.com/downloads/rngtng/DelJect/deleject.app)
+Get latest version here: [DelJect.app](https://github.com/downloads/rngtng/DelJect/DelJect.dmg)
 
 
 ## Usage
